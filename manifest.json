@@ -1,6 +1,7 @@
 {
   "manifest_version": 2, 
   "name": "Briefcake", 
+  "description": "Daily email from your favorite websites. Integration with briefcake.com website, requires an account",
   "version": "0.1",
   "browser_action": {
     "default_icon": "icon.png"
@@ -10,5 +11,8 @@
   ],
   "background": {
     "scripts": ["background.js"]
-  }
+  },
+  "icons": { "16": "icon16.png",
+             "48": "icon48.png",
+            "128": "icon128.png" },
 }
