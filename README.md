@@ -9,6 +9,7 @@ If you have **Firefox**, this extension is actually [published on addons pages](
 **Download zip archive of this repo**
 - Find button "Code"
 - Pick "Download ZIP" option
+
 ![Download archive from github repo](readme/github-download.png)
 
 **Load extesion**
