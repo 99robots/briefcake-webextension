@@ -1,5 +1,7 @@
 # briefcake-webextension
-Light browser wrapper around briefcake.com website. My first attempt at browser integrations.
+![Browser extension preview.](readme/extension-preview.png)
+
+Light browser wrapper around briefcake.com website. It adds briefcake icon, so it would be easy to add new website to briefcake.
 
 https://briefcake.com is a project that saves favorite websites, syndicates them and sends updates with a beatiful email. 
 
